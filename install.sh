@@ -1,1 +1,1 @@
-apt install -y build-essential cmake libgl1-mesa-dev libsdl2-dev libcurl4-openssl-dev libopenal-dev libfreetype6-dev mingw-w64 g++-mingw-w64 g++-multilib git zip vim-nox curl rsync libncurses-dev bison libmysqlclient-dev libminizip-dev
+apt install -y build-essential cmake libgl1-mesa-dev libsdl-dev libsdl2-dev libcurl4-openssl-dev libopenal-dev libfreetype6-dev mingw-w64 g++-mingw-w64 g++-multilib git zip vim-nox curl rsync libncurses-dev bison libmysqlclient-dev libminizip-dev clang
